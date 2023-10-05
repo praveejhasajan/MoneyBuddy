@@ -1,0 +1,20 @@
+    transition: background-color 0.3s;
+}
+
+.start-now-button:hover {
+    background-color: #0056b3;
+}
+
+.affiliate-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.affiliate-links li {
+    margin-bottom: 10px;
+}
+
+.affiliate-links a {
+    color: #007bff;
+    text-decoration: none;
+}
